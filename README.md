@@ -16,4 +16,4 @@ pip install -r requirements.txt
 
 # Usage
 
-TBD.
+You can either look at the `demo.ipynb` file or the `demo.html` file in the `html_demo` folder. Whichever works for you.
