@@ -20,4 +20,4 @@ You can either look at the `demo.ipynb` file or the `demo.html` file in the `htm
 
 # Slides!
 
-https://urldefense.com/v3/__https://docs.google.com/presentation/d/1mF7R3amKI40XJqRedsqdZbKo0Oci83DvVFiOf0kYyPE/edit?usp=sharing__;!!IKRxdwAv5BmarQ!fCsr6-OsOQpVl3C2AqoMZJiKUyp2UfJG8KlmjltC_dVg8ah1yRqpg3F75RbV9AUnL_QkHiJYZHZtQenU$
+https://docs.google.com/presentation/d/1mF7R3amKI40XJqRedsqdZbKo0Oci83DvVFiOf0kYyPE/edit
